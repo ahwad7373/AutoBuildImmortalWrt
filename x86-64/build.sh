@@ -39,6 +39,8 @@ PACKAGES="$PACKAGES luci-i18n-netdata-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-transmission-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-amule-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-advanced-reboot-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-vlmcsd-zh-cn"
 
 # 构建镜像
 echo "$(date '+%Y-%m-%d %H:%M:%S') - Building image with the following packages:"
